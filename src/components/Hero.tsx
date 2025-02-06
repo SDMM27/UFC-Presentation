@@ -6,7 +6,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80')",
+          backgroundImage: "url('https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2018/10/conor-mcgregor-khabib-nurmagomedov-ufc-229-getty.jpg')",
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-60"></div>
