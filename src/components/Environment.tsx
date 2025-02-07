@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Scale, Globe2 } from 'lucide-react';
+import { Shield, Scale, Globe2, Flame, Plus } from 'lucide-react';
 
 export default function Environment() {
   return (
@@ -13,8 +13,27 @@ export default function Environment() {
               <div>
                 <h3 className="text-xl font-bold mb-2">Régulation</h3>
                 <p className="text-gray-600">
-                  Collaboration étroite avec les commissions athlétiques et respect des normes de sécurité
+                Le MMA est réglementé différemment selon les pays, avec certaines régions imposant des restrictions ou des interdictions.
+                  Il y a donc une collaboration étroite avec les commissions athlétiques et respect des normes de sécurité
                   internationales pour garantir l'intégrité du sport.
+                </p>
+              </div>
+            </div>
+            <div className="flex items-start space-x-4">
+              <Flame className="text-red-600 flex-shrink-0" size={32} />
+              <div>
+                <h3 className="text-xl font-bold mb-2">Tendances</h3>
+                <p className="text-gray-600">
+                 Croissance de la popularité du MMA à l'échelle mondiale, augmentation de la consommation de contenu en streaming, et développement de nouveaux marchés en Asie et en Europe.
+                </p>
+              </div>
+            </div>
+            <div className="flex items-start space-x-4">
+              <Plus className="text-red-600 flex-shrink-0" size={32} />
+              <div>
+                <h3 className="text-xl font-bold mb-2">Opportunités</h3>
+                <p className="text-gray-600">
+                 Expansion dans de nouveaux marchés, développement de partenariats avec d'autres organisations sportives, et diversification du contenu proposé.
                 </p>
               </div>
             </div>
@@ -24,7 +43,7 @@ export default function Environment() {
                 <h3 className="text-xl font-bold mb-2">Concurrence</h3>
                 <p className="text-gray-600">
                   Position dominante sur le marché des MMA avec des concurrents régionaux émergents
-                  et une diversification des sports de combat.
+                  et une diversification des sports de combat. Concurrence accrue et dépendance à l'égard des principales stars pour attirer le public.
                 </p>
               </div>
             </div>

@@ -34,6 +34,40 @@ export default function DemandAnalysis() {
             </div>
           </div>
           <div className="bg-gray-50 p-8 rounded-lg">
+            <h3 className="text-2xl font-bold mb-6">Public Cible</h3>
+            <ul className="space-y-4">
+              <li className="flex items-start">
+                <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">1</span>
+                <p>Hommes et femmes âgés de 18 à 34 ans</p>
+              </li>
+              <li className="flex items-start">
+                <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">2</span>
+                <p>Passionnés de sports de combat</p>
+              </li>
+              <li className="flex items-start">
+                <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">3</span>
+                <p>Passionés de divertissement sportif</p>
+              </li>
+            </ul>
+          </div>
+          <div className="bg-gray-50 p-8 rounded-lg">
+            <h3 className="text-2xl font-bold mb-6">Attente des consommateurs</h3>
+            <ul className="space-y-4">
+              <li className="flex items-start">
+                <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">1</span>
+                <p>Accès à des combats de haute qualité</p>
+              </li>
+              <li className="flex items-start">
+                <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">2</span>
+                <p>Contenu exclusif et innovant</p>
+              </li>
+              <li className="flex items-start">
+                <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">3</span>
+                <p>Interactions avec les combattants via les médias sociaux</p>
+              </li>
+            </ul>
+          </div>
+          <div className="bg-gray-50 p-8 rounded-lg">
             <h3 className="text-2xl font-bold mb-6">Facteurs de Croissance</h3>
             <ul className="space-y-4">
               <li className="flex items-start">
@@ -50,6 +84,7 @@ export default function DemandAnalysis() {
               </li>
             </ul>
           </div>
+          
         </div>
       </div>
     </section>

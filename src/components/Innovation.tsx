@@ -18,6 +18,10 @@ export function Innovation() {
                 <Lightbulb className="mr-2 text-red-600" /> Pistes d'Innovation
               </h3>
               <ul className="list-disc list-inside text-gray-600">
+              <li>Introduction de nouvelles catégories de poids pour inclure plus de combattants.</li>
+                <li>Réintégrer les tournois en une soirée</li>
+                <li>Combats inter-organisations</li>
+                <li>Réglementation sur le cutting des combattants</li>
                 <li>Réalité virtuelle pour expériences immersives des spectateurs.</li>
                 <li>Capteurs biométriques pour suivi en temps réel des athlètes.</li>
                 <li>Nouveaux formats de combats pour captiver le public.</li>
