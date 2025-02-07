@@ -28,7 +28,7 @@ export default function MarketAnalysis() {
               Positionnement
             </h3>
             <p className="text-gray-600 mb-4">
-            L'UFC se positionne comme le leader mondial du MMA, offrant les combats les plus prestigieux et attirant les meilleurs talents. Tout combattant rêve de regarder l'UFC et
+            L'UFC se positionne comme le leader mondial du MMA, offrant les combats les plus prestigieux et attirant les meilleurs talents. Tout combattant rêve de combattre à l'UFC et
             même certains non connaisseurs de MMA connaissent l'UFC.
             De ce fait, l'UFC détient une part significative du marché mondial du MMA, étant reconnue comme la principale organisation dans ce domaine.
             </p>
