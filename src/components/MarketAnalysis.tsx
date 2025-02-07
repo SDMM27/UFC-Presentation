@@ -46,6 +46,7 @@ export default function MarketAnalysis() {
               <li>Expansion continue dans de nouveaux territoires</li>
               <li>Augmentation des revenus PPV</li>
               <li>Croissance des droits TV internationaux</li>
+              <li>🇫🇷 Légalisation du MMA en France en 2020 🇫🇷</li>
             </ul>
           </div>
           <div className="bg-white p-8 rounded-lg shadow-lg">
