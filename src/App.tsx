@@ -6,6 +6,8 @@ import MarketAnalysis from './components/MarketAnalysis';
 import DemandAnalysis from './components/DemandAnalysis';
 import SupplyAnalysis from './components/SupplyAnalysis';
 import Environment from './components/Environment';
+import StrategicWatch from './components/StrategicWatch';
+import Innovation from './components/Innovation';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <DemandAnalysis />
       <SupplyAnalysis />
       <Environment />
+      <StrategicWatch />
+      <Innovation />
     </div>
   );
 }
