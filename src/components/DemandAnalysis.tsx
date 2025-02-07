@@ -38,11 +38,11 @@ export default function DemandAnalysis() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">1</span>
-                <p>Hommes et femmes âgés de 18 à 34 ans</p>
+                <p>Passionnés de sports de combat</p>
               </li>
               <li className="flex items-start">
                 <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">2</span>
-                <p>Passionnés de sports de combat</p>
+                <p>Hommes et femmes âgés de 18 à 34 ans</p>
               </li>
               <li className="flex items-start">
                 <span className="h-6 w-6 rounded-full bg-red-600 text-white flex items-center justify-center mr-3 mt-1">3</span>
