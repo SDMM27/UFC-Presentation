@@ -23,8 +23,8 @@ export function StrategicWatch() {
             </h3>
             <ul className="space-y-4 text-gray-600">
               <li><strong>Nouvelles règles en MMA :</strong> À partir du 1ᵉʳ novembre 2024, de nouvelles règles unifiées ont été mises en place, notamment la légalisation des coudes descendants (12 à 6) et une nouvelle définition du combattant au sol.</li>
-              <li><strong>Combats</strong> Entre novembre et février, l'UFC a organisé plusieurs événements majeurs, y compris des combats pour le titre et a aussi annoncé des expansions dans de nouveaux marchés.</li>
-              <li><strong>MAJ UFC Fight Pass</strong> Lancement de nouvelles fonctionnalités sur UFC Fight Pass, telles que des contenus exclusifs et des améliorations de l'interface utilisateur.</li>
+              <li><strong>Combats :</strong> Entre novembre et février, l'UFC a organisé plusieurs événements majeurs, y compris des combats pour le titre et a aussi annoncé des expansions dans de nouveaux marchés.</li>
+              <li><strong>MAJ UFC Fight Pass :</strong> Lancement de nouvelles fonctionnalités sur UFC Fight Pass, telles que des contenus exclusifs et des améliorations de l'interface utilisateur.</li>
               <li><strong>Domination d'Islam Makhachev :</strong> Islam Makhachev a défendu avec succès pour la 4e fois son titre des poids légers lors de l'UFC 311 en janvier 2025, renforçant sa position dominante dans la division. Cette suprématie relance le débat sur l'introduction d'une nouvelle catégorie de poids entre les poids légers (70 KG) et les poids mi-moyens (77 KG), afin de réduire l'écart de poids et offrir de nouveaux défis aux combattants.</li>
             <li><strong>Prochains événements majeurs :</strong> Le 8 février 2025, UFC 312 à Sydney, Australie, avec Dricus Du Plessis affrontant Sean Strickland pour le titre des poids moyens. Le 15 février 2025, UFC Fight Night à Las Vegas, mettant en vedette Jared Cannonier contre Gregory Rodrigues.</li>
             </ul>
